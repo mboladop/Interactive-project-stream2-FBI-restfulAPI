@@ -1,1 +1,1 @@
-web: gunicorn fbiapi: app
+web: gunicorn app.fbiapi: app
