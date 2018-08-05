@@ -2,6 +2,8 @@
 
 RESTful/wrapper APIs. Used the FBI Crime Data Explorer API. 
 
+![Desktop Demo](https://raw.githubusercontent.com/mboladop/Interactive-project-stream2-FBI-restfulAPI/master/stream2.gif "Desktop Demo")
+
 # Crime Data Explorer FBI Website Back-End
  
 ## Overview
